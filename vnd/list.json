@@ -46,14 +46,14 @@
     "abbr": "bnp-paribas-hcm",
     "niceName": "BNP Paribas HCM",
     "officialName": "Ngân hàng BNP Paribas CN HCM",
-    "bgColor": "#fff"
+    "bgColor": "#009759"
   },
   {
     "code": "963668",
     "abbr": "bnp-paribas-hn",
     "niceName": "BNP Paribas HCM",
     "officialName": "Ngân hàng BNP Paribas CN HN",
-    "bgColor": "#fff"
+    "bgColor": "#009759"
   },
   {
     "code": "546034",
@@ -172,7 +172,7 @@
     "abbr": "kbank",
     "niceName": "KBank",
     "officialName": "Đại chúng TNHH Kasikornbank - Chi nhánh TP. HCM",
-    "bgColor": "#fff"
+    "bgColor": "#138f2d"
   },
   {
     "code": "970463",
@@ -228,7 +228,7 @@
     "abbr": "mafc",
     "niceName": "MAFC",
     "officialName": "Công ty Tài chính TNHH MTV Mirae Asset",
-    "bgColor": "#fff"
+    "bgColor": "#f08200"
   },
   {
     "code": "970426",
