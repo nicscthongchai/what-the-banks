@@ -1,27 +1,26 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <rect width="24" height="24" fill="#F6F6F6" />
-    <mask id="mask0_223_24580" style="mask-type:luminance" maskUnits="userSpaceOnUse">
-        <path transform="translate(-0.618164,-0.952026)"
-            d="M10.7582 14.752C9.3182 13.312 9.07822 11.032 10.2182 9.29198C12.1982 7.97198 14.8982 8.51198 16.2182 10.552C17.1782 11.992 17.1782 13.852 16.2182 15.292C14.4782 16.432 12.2582 16.192 10.7582 14.752ZM5.6582 12.892C5.6582 16.732 8.7782 19.792 12.5582 19.792C16.0382 19.792 18.9782 17.212 19.3982 13.732C19.3982 13.732 19.3982 13.252 19.3982 12.892C19.3982 12.532 19.3982 12.052 19.3982 12.052C18.9182 8.27198 15.4982 5.57198 11.7182 6.05198C8.23822 6.47198 5.6582 9.41198 5.6582 12.892Z"
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <mask id="tisco_bank_mask0" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="16"
+        height="16">
+        <path
+            d="M5.91507 10.1545C4.24493 8.48438 3.9666 5.84 5.28879 3.82192C7.58523 2.29096 10.7167 2.91726 12.2477 5.28329C13.3611 6.95343 13.3611 9.11069 12.2477 10.7808C10.2296 12.103 7.65479 11.8247 5.91507 10.1545ZM0 7.99726C0 12.451 3.61863 16 8.00274 16C12.0389 16 15.4488 13.0077 15.9359 8.97151C15.9359 8.97151 15.9359 8.4148 15.9359 7.99726C15.9359 7.57973 15.9359 7.02302 15.9359 7.02302C15.3792 2.63891 11.4126 -0.4926 7.02852 0.0641123C2.99235 0.551235 0 3.9611 0 7.99726Z"
             fill="white" />
     </mask>
-    <g mask="url(#mask0_223_24580)">
-        <path transform="translate(-0.618164,-0.952026)" d="M19.5178 6.05212H5.71777V19.8521H19.5178V6.05212Z"
-            fill="url(#paint0_radial_223_24580)" />
+    <g mask="url(#tisco_bank_mask0)">
+        <path d="M16.0748 0.0643311H0.0692749V16.0698H16.0748V0.0643311Z" fill="url(#tisco_bank_paint0_radial)" />
     </g>
-    <mask id="mask1_223_24580" style="mask-type:luminance" maskUnits="userSpaceOnUse">
-        <path transform="translate(-0.618164,-0.952026)"
-            d="M10.7582 8.69189C10.5782 8.87189 10.3983 9.11189 10.2183 9.35189C12.1983 8.03189 14.8983 8.57189 16.2183 10.6119C17.1783 12.0519 17.1783 13.9119 16.2183 15.3519C18.1983 14.0319 18.7383 11.3319 17.4183 9.35189C16.0983 7.37189 13.3983 6.83189 11.4183 8.15189C11.1783 8.33189 10.9382 8.51189 10.7582 8.69189Z"
+    <mask id="tisco_bank_mask1" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="1" width="10"
+        height="10">
+        <path
+            d="M5.91497 3.12597C5.7062 3.33474 5.49746 3.6131 5.2887 3.89145C7.58513 2.3605 10.7166 2.9868 12.2476 5.35282C13.361 7.02296 13.361 9.18022 12.2476 10.8504C14.544 9.3194 15.1703 6.18789 13.6394 3.89145C12.1084 1.59502 8.97691 0.968715 6.68048 2.49967C6.40212 2.70844 6.12374 2.91721 5.91497 3.12597Z"
             fill="white" />
     </mask>
-    <g mask="url(#mask1_223_24580)">
-        <path transform="translate(-0.618164,-0.952026)"
-            d="M14.4315 3.21887L6.28564 11.3647L14.4315 19.5106L22.5774 11.3647L14.4315 3.21887Z"
-            fill="url(#paint1_linear_223_24580)" />
+    <g mask="url(#tisco_bank_mask1)">
+        <path d="M10.1751 -3.22177L0.727417 6.22595L10.1751 15.6737L19.6229 6.22594L10.1751 -3.22177Z"
+            fill="url(#tisco_bank_paint1_linear)" />
     </g>
     <defs>
-        <radialGradient id="paint0_radial_223_24580" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
-            gradientTransform="translate(-31.7222 -91.0339) scale(13.8 13.98)">
+        <radialGradient id="tisco_bank_paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(-43.3543 -112.538) scale(16.0055 16.2142)">
             <stop stop-color="#37A7DF" />
             <stop offset="0.2" stop-color="#36A3DB" />
             <stop offset="0.4" stop-color="#3497D1" />
@@ -29,7 +28,8 @@
             <stop offset="0.8" stop-color="#2C6AA8" />
             <stop offset="1" stop-color="#243E80" />
         </radialGradient>
-        <linearGradient id="paint1_linear_223_24580" gradientUnits="userSpaceOnUse">
+        <linearGradient id="tisco_bank_paint1_linear" x1="-79.5486" y1="-179.668" x2="-79.5486" y2="-179.668"
+            gradientUnits="userSpaceOnUse">
             <stop stop-color="#AD1A1E" />
             <stop offset="0.2" stop-color="#C41C22" />
             <stop offset="0.3" stop-color="#D51D24" />
