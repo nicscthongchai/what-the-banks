@@ -1,0 +1,182 @@
+{
+  "kbank": {
+    "code": "004",
+    "color": "#138f2d",
+    "officialName": "KASIKORNBANK PUBLIC COMPANY LTD.",
+    "niceName": "กสิกรไทย"
+  },
+  "scb": {
+    "code": "014",
+    "color": "#4e2e7f",
+    "officialName": "SIAM COMMERCIAL BANK PUBLIC COMPANY LTD.",
+    "niceName": "ไทยพาณิชย์"
+  },
+  "ktb": {
+    "code": "006",
+    "color": "#1ba5e1",
+    "officialName": "KRUNG THAI BANK PUBLIC COMPANY LTD.",
+    "niceName": "กรุงไทย"
+  },
+  "bbl": {
+    "code": "002",
+    "color": "#1e4598",
+    "officialName": "BANGKOK BANK PUBLIC COMPANY LTD.",
+    "niceName": "กรุงเทพ"
+  },
+  "bay": {
+    "code": "025",
+    "color": "#fec43b",
+    "officialName": "BANK OF AYUDHYA PUBLIC COMPANY LTD.",
+    "niceName": "กรุงศรีอยุธยา"
+  },
+  "citi": {
+    "code": "017",
+    "color": "#1583c7",
+    "officialName": "CITIBANK, N.A.",
+    "niceName": "ซิตี้แบงค์"
+  },
+  "gsb": {
+    "code": "030",
+    "color": "#eb198d",
+    "officialName": "THE GOVERNMENT SAVINGS BANK",
+    "niceName": "ออมสิน"
+  },
+  "cimb": {
+    "code": "022",
+    "color": "#ED1C24",
+    "officialName": "CIMB THAI BANK PUPBLIC COMPANY LTD.",
+    "niceName": "ซีไอเอ็มบีไทย"
+  },
+  "jpm": {
+    "code": "008",
+    "color": "#fff",
+    "officialName": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+    "niceName": "เจพีมอร์แกน เชส"
+  },
+  "mufg": {
+    "code": "010",
+    "color": "#fff",
+    "officialName": "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.",
+    "niceName": "แห่งโตเกียว-มิตซูบิชิ ยูเอฟเจ"
+  },
+  "uob": {
+    "code": "024",
+    "color": "#0b3979",
+    "officialName": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LIMITED",
+    "niceName": "ยูโอบี"
+  },
+  "kk": {
+    "code": "069",
+    "color": "#595288",
+    "officialName": "KIATNAKIN BANK PUBLIC COMPANY LIMITED",
+    "niceName": "เกียรตินาคินภัทร"
+  },
+  "ghb": {
+    "code": "033",
+    "color": "#f57d23",
+    "officialName": "THE GOVERNMENT HOUSING BANK",
+    "niceName": "อาคารสงเคราะห์"
+  },
+  "baac": {
+    "code": "034",
+    "color": "#4b9b1d",
+    "officialName": "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES",
+    "niceName": "เพื่อการเกษตรและสหกรณ์การเกษตร"
+  },
+  "lhb": {
+    "code": "073",
+    "color": "#203C6C",
+    "officialName": "LAND AND HOUSES BANK PUBLIC COMPANY LIMITED",
+    "niceName": "แลนด์ แอนด์ เฮ้าส์"
+  },
+  "mega": {
+    "code": "026",
+    "color": "#fff",
+    "officialName": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
+    "niceName": "เมกะ สากลพาณิชย์"
+  },
+  "sc": {
+    "code": "020",
+    "color": "#fff",
+    "officialName": "STANDARD CHARTERED BANK (THAI) PUBLIC COMPANY LIMITED",
+    "niceName": "สแตนดาร์ดชาร์เตอร์ด"
+  },
+  "boa": {
+    "code": "027",
+    "color": "#fff",
+    "officialName": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+    "niceName": "แห่งอเมริกา"
+  },
+  "rbs": {
+    "code": "005",
+    "color": "#fff",
+    "officialName": "THE ROYAL BANK OF SCOTLAND PLC",
+    "niceName": "เดอะรอยัลแบงค์อ๊อฟสกอตแลนด์"
+  },
+  "cacib": {
+    "code": "028",
+    "color": "#fff",
+    "officialName": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK",
+    "niceName": "เครดิต อะกริโคล"
+  },
+  "hsbc": {
+    "code": "031",
+    "color": "#fff",
+    "officialName": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD.",
+    "niceName": "ฮ่องกงและเซี่ยงไฮ้แบงกิ้งคอร์ปอเรชั่น"
+  },
+  "db": {
+    "code": "032",
+    "color": "#fff",
+    "officialName": "DEUTSCHE BANK AG.",
+    "niceName": "ดอยซ์แบงก์"
+  },
+  "mb": {
+    "code": "039",
+    "color": "#37498B",
+    "officialName": "MIZUHO BANK, LTD.",
+    "niceName": "มิซูโฮ"
+  },
+  "bnp": {
+    "code": "045",
+    "color": "#14925e",
+    "officialName": "BNP PARIBAS",
+    "niceName": "บีเอ็นพี พารีบาส์"
+  },
+  "smbc": {
+    "code": "018",
+    "color": "#fff",
+    "officialName": "SUMITOMO MITSUI BANKING CORPORATION",
+    "niceName": "ซูมิโตโม มิตซุย แบงค์กิ้ง คอร์ปอเรชั่น"
+  },
+  "ibank": {
+    "code": "066",
+    "color": "#184615",
+    "officialName": "ISLAMIC BANK OF THAILAND",
+    "niceName": "อิสลามแห่งประเทศไทย"
+  },
+  "tisco": {
+    "code": "067",
+    "color": "#fff",
+    "officialName": "TISCO BANK PUBLIC COMPANY LIMITED",
+    "niceName": "ทิสโก้"
+  },
+  "icbc": {
+    "code": "070",
+    "color": "#fff",
+    "officialName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED",
+    "niceName": "ไอซีบีซี"
+  },
+  "tcrb": {
+    "code": "071",
+    "color": "#0a4ab3",
+    "officialName": "THE THAI CREDIT RETAIL BANK PUBLIC COMPANY LIMITED",
+    "niceName": "ไทยเครดิต"
+  },
+  "ttb": {
+    "code": "011",
+    "color": "#fff",
+    "officialName": "TMB THABACHART BANK PUBLIC COMPANY LIMITED.",
+    "niceName": "ทหารไทยธนชาต"
+  }
+}

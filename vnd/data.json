@@ -1,0 +1,478 @@
+[
+  {
+    "abbr": "cubhcm",
+    "code": "168999",
+    "color": "#FFFFFF",
+    "niceName": "CUBHCM",
+    "officialName": "Ngân hàng Cathay United Bank - HCM"
+  },
+  {
+    "abbr": "cimb",
+    "code": "422589",
+    "color": "#850000",
+    "niceName": "CIMB",
+    "officialName": "Ngân hàng TNHH MTV CIMB Việt Nam"
+  },
+  {
+    "abbr": "hsbc",
+    "code": "458761",
+    "color": "#FFFFFF",
+    "niceName": "HSBC",
+    "officialName": "NH TNHH Một Thành Viên HSBC Việt Nam"
+  },
+  {
+    "abbr": "cityvnvn",
+    "code": "533948",
+    "color": "#0071BF",
+    "niceName": "CITIVNVN",
+    "officialName": "Ngân hàng Citibank - Chi nhánh Hà Nội"
+  },
+  {
+    "abbr": "cake",
+    "code": "546034",
+    "color": "#FF00A7",
+    "niceName": "CAKE",
+    "officialName": "Ngân hàng số CAKE by VPBank"
+  },
+  {
+    "abbr": "ubank",
+    "code": "546035",
+    "color": "#FFFFFF",
+    "niceName": "Ubank",
+    "officialName": "Ngân hàng số Ubank by VPBank"
+  },
+  {
+    "abbr": "kbank",
+    "code": "668888",
+    "color": "#00AC43",
+    "niceName": "KBank",
+    "officialName": "Đại chúng TNHH Kasikornbank - Chi nhánh TP. HCM"
+  },
+  {
+    "abbr": "dbs",
+    "code": "796500",
+    "color": "#FF001E",
+    "niceName": "DBS",
+    "officialName": "DBS chi nhánh Thành phố Hồ Chí Minh"
+  },
+  {
+    "abbr": "nhb",
+    "code": "801011",
+    "color": "#F1F7F8",
+    "niceName": "NHB HN",
+    "officialName": "Ngân hàng Nonghyup – Chi nhánh Hà Nội"
+  },
+  {
+    "abbr": "liobank",
+    "code": "963369",
+    "color": "#000000",
+    "niceName": "Liobank by OCB",
+    "officialName": "Liobank by OCB"
+  },
+  {
+    "abbr": "vietcapital",
+    "code": "963388",
+    "color": "#FFFFFF",
+    "niceName": "VietCapital Bank Timo",
+    "officialName": "NHTMCP Bản Việt Timo"
+  },
+  {
+    "abbr": "umee",
+    "code": "963399",
+    "color": "#00075C",
+    "niceName": "UMEE",
+    "officialName": "Ngân hàng số UMEE by Kienlongbank"
+  },
+  {
+    "abbr": "bnp-paribas-hcm",
+    "code": "963666",
+    "color": "#FFFFFF",
+    "niceName": "BNP Paribas HCM",
+    "officialName": "Ngân hàng BNP Paribas CN HCM"
+  },
+  {
+    "abbr": "bnp-paribas-hn",
+    "code": "963668",
+    "color": "#009759",
+    "niceName": "BNP Paribas HCM",
+    "officialName": "Ngân hàng BNP Paribas CN HN"
+  },
+  {
+    "abbr": "saigonbank",
+    "code": "970400",
+    "color": "#FFFFFF",
+    "niceName": "Saigonbank",
+    "officialName": "Ngân hàng Sài Gòn Công Thương"
+  },
+  {
+    "abbr": "sacombank",
+    "code": "970403",
+    "color": "#FFFFFF",
+    "niceName": "Sacombank",
+    "officialName": "Ngân hàng Sài Gòn Thương Tín"
+  },
+  {
+    "abbr": "agribank",
+    "code": "970405",
+    "color": "#B01B3E",
+    "niceName": "AGRIBANK",
+    "officialName": "Ngân hàng NN & PTNT VN"
+  },
+  {
+    "abbr": "dong-a-bank",
+    "code": "970406",
+    "color": "#FFFFFF",
+    "niceName": "Dong A Bank",
+    "officialName": "Ngân hàng Đông Á"
+  },
+  {
+    "abbr": "tcb",
+    "code": "970407",
+    "color": "#ED1B24",
+    "niceName": "Techcombank, TCB",
+    "officialName": "Ngân hàng Kỹ thương Việt Nam"
+  },
+  {
+    "abbr": "gpbank",
+    "code": "970408",
+    "color": "#FFFFFF",
+    "niceName": "GP Bank",
+    "officialName": "Ngân hàng Dầu khí Toàn cầu"
+  },
+  {
+    "abbr": "bacabank",
+    "code": "970409",
+    "color": "#241D1F",
+    "niceName": "Bac A Bank",
+    "officialName": "Ngân hàng Bắc Á"
+  },
+  {
+    "abbr": "scvn",
+    "code": "970410",
+    "color": "#FFFFFF",
+    "niceName": "scvn",
+    "officialName": "Ngân hàng TNHH MTV Standard Chartered Việt Nam"
+  },
+  {
+    "abbr": "pvcombank",
+    "code": "970412",
+    "color": "#FFFFFF",
+    "niceName": "PVcombank",
+    "officialName": "NH TMCP Đại Chúng Việt Nam"
+  },
+  {
+    "abbr": "oceanbank",
+    "code": "970414",
+    "color": "#8ED4DE",
+    "niceName": "Ocean Bank",
+    "officialName": "Ngân hàng Đại Dương"
+  },
+  {
+    "abbr": "vietinbank",
+    "code": "970415",
+    "color": "#FFFFFF",
+    "niceName": "VietinBank",
+    "officialName": "Ngân hàng Công Thương Việt Nam"
+  },
+  {
+    "abbr": "acb",
+    "code": "970416",
+    "color": "#FFFFFF",
+    "niceName": "ACB",
+    "officialName": "Ngân hàng Á Châu"
+  },
+  {
+    "abbr": "bidv",
+    "code": "970418",
+    "color": "#1441A0",
+    "niceName": "BIDV",
+    "officialName": "Ngân hàng Đầu tư và Phát triển Việt Nam"
+  },
+  {
+    "abbr": "ncb",
+    "code": "970419",
+    "color": "#FFFFFF",
+    "niceName": "NCB",
+    "officialName": "Ngân hàng Quốc Dân"
+  },
+  {
+    "abbr": "vrb",
+    "code": "970421",
+    "color": "#003DA0",
+    "niceName": "VRB",
+    "officialName": "Ngân hàng Liên doanh Việt Nga"
+  },
+  {
+    "abbr": "mbbank",
+    "code": "970422",
+    "color": "#FFFFFF",
+    "niceName": "MB Bank, MB",
+    "officialName": "Ngân hàng Quân Đội"
+  },
+  {
+    "abbr": "shinhanbank",
+    "code": "970424",
+    "color": "#112369",
+    "niceName": "Shinhan Bank",
+    "officialName": "Ngân hàng TNHH MTV Shinhan Việt Nam"
+  },
+  {
+    "abbr": "abbank",
+    "code": "970425",
+    "color": "#FF0000",
+    "niceName": "ABBank",
+    "officialName": "Ngân hàng An Bình"
+  },
+  {
+    "abbr": "maritimebank",
+    "code": "970426",
+    "color": "#D7261C",
+    "niceName": "Maritime Bank, MSB",
+    "officialName": "Ngân hàng Hàng Hải Việt Nam"
+  },
+  {
+    "abbr": "vietabank",
+    "code": "970427",
+    "color": "#1B4486",
+    "niceName": "VIETABANK",
+    "officialName": "Ngân hàng Việt Á"
+  },
+  {
+    "abbr": "nam-a-bank",
+    "code": "970428",
+    "color": "#FFFFFF",
+    "niceName": "Nam A Bank",
+    "officialName": "Ngân hàng Nam Á"
+  },
+  {
+    "abbr": "scb",
+    "code": "970429",
+    "color": "#1824AB",
+    "niceName": "SCB",
+    "officialName": "Ngân hàng TMCP Sài Gòn"
+  },
+  {
+    "abbr": "pgbank",
+    "code": "970430",
+    "color": "#1E1E1E",
+    "niceName": "PG Bank",
+    "officialName": "Ngân hàng Xăng dầu Petrolimex"
+  },
+  {
+    "abbr": "eximbank",
+    "code": "970431",
+    "color": "#005F92",
+    "niceName": "EXIMBANK",
+    "officialName": "Ngân hàng Xuất nhập khẩu Việt Nam"
+  },
+  {
+    "abbr": "vpbank",
+    "code": "970432",
+    "color": "#0E806A",
+    "niceName": "VPBank",
+    "officialName": "Ngân hàng Thương mại cổ phần Việt Nam Thịnh Vượng"
+  },
+  {
+    "abbr": "vietbbank",
+    "code": "970433",
+    "color": "#FFC000",
+    "niceName": "VIETBANK",
+    "officialName": "Ngân hàng Việt Nam Thương Tín"
+  },
+  {
+    "abbr": "ivb",
+    "code": "970434",
+    "color": "#FFEE57",
+    "niceName": "IVB",
+    "officialName": "Indovina Bank"
+  },
+  {
+    "abbr": "vcb",
+    "code": "970436",
+    "color": "#FFFFFF",
+    "niceName": "Vietcombank, VCB",
+    "officialName": "Ngân hàng TMCP Ngoại Thương"
+  },
+  {
+    "abbr": "hdbank",
+    "code": "970437",
+    "color": "#FDCA09",
+    "niceName": "HDBank",
+    "officialName": "Ngân hàng Phát triển TP HCM"
+  },
+  {
+    "abbr": "baovietbank",
+    "code": "970438",
+    "color": "#005EA9",
+    "niceName": "BAOVIET Bank",
+    "officialName": "Ngân hàng TMCP Bảo Việt"
+  },
+  {
+    "abbr": "vid",
+    "code": "970439",
+    "color": "#FFFFFF",
+    "niceName": "VID",
+    "officialName": "Ngân hàng VID Public"
+  },
+  {
+    "abbr": "seabank",
+    "code": "970440",
+    "color": "#FFFFFF",
+    "niceName": "SeABank",
+    "officialName": "Ngân hàng TMCP Đông Nam Á"
+  },
+  {
+    "abbr": "vib",
+    "code": "970441",
+    "color": "#EB5432",
+    "niceName": "VIB",
+    "officialName": "Ngân hàng Quốc tế"
+  },
+  {
+    "abbr": "hlo",
+    "code": "970442",
+    "color": "#FFFFFF",
+    "niceName": "HLO",
+    "officialName": "Ngân hàng Hong Leong Viet Nam"
+  },
+  {
+    "abbr": "shb",
+    "code": "970443",
+    "color": "#FFFFFF",
+    "niceName": "SHB",
+    "officialName": "Ngân hàng Sài Gòn - Hà Nội"
+  },
+  {
+    "abbr": "cbb",
+    "code": "970444",
+    "color": "#FA0007",
+    "niceName": "CBB",
+    "officialName": "NH TMCP Xây dựng Việt Nam"
+  },
+  {
+    "abbr": "co-opbank",
+    "code": "970446",
+    "color": "#FFFFFF",
+    "niceName": "Co-opBank",
+    "officialName": "Ngân hàng Hợp tác xã Việt Nam"
+  },
+  {
+    "abbr": "oricombank",
+    "code": "970448",
+    "color": "#FFFFFF",
+    "niceName": "Oricombank, OCB",
+    "officialName": "Ngân hàng TMCP Phương Đông"
+  },
+  {
+    "abbr": "lpbank",
+    "code": "970449",
+    "color": "#FFFFFF",
+    "niceName": "LPBANK",
+    "officialName": "Ngân hàng TMCP Bưu điện Liên Việt"
+  },
+  {
+    "abbr": "kienlongbank",
+    "code": "970452",
+    "color": "#241C62",
+    "niceName": "Kienlongbank",
+    "officialName": "Ngân hàng Kiên Long"
+  },
+  {
+    "abbr": "vietCapitalbank",
+    "code": "970454",
+    "color": "#CD1C36",
+    "niceName": "VietCapital Bank",
+    "officialName": "NHTMCP Bản Việt"
+  },
+  {
+    "abbr": "ibk",
+    "code": "970455",
+    "color": "#FFFFFF",
+    "niceName": "IBK",
+    "officialName": "Industrial Bank of Korea"
+  },
+  {
+    "abbr": "ibk-hcm",
+    "code": "970456",
+    "color": "#009DD6",
+    "niceName": "IBK HCM",
+    "officialName": "Industrial Bank of Korea CN TP. HCM"
+  },
+  {
+    "abbr": "whhn",
+    "code": "970457",
+    "color": "#FFFFFF",
+    "niceName": "WHHN",
+    "officialName": "Ngân hàng Woori Bank Hà Nội"
+  },
+  {
+    "abbr": "uob",
+    "code": "970458",
+    "color": "#FFFFFF",
+    "niceName": "UOB",
+    "officialName": "United Oversea Bank"
+  },
+  {
+    "abbr": "kbhn",
+    "code": "970462",
+    "color": "#FFFFFF",
+    "niceName": "KBHN",
+    "officialName": "Ngân hàng Kookmin - CN Hà Nội"
+  },
+  {
+    "abbr": "kbhcm",
+    "code": "970463",
+    "color": "#333333",
+    "niceName": "KBHCM",
+    "officialName": "Ngân hàng Kookmin – CN TP. HCM"
+  },
+  {
+    "abbr": "kebhanahcm",
+    "code": "970466",
+    "color": "#FFFFFF",
+    "niceName": "KEBHANAHCM",
+    "officialName": "Ngân hàng KEB Hana Chi nhánh TP.Hồ Chí Minh"
+  },
+  {
+    "abbr": "kebhanahn",
+    "code": "970467",
+    "color": "#FFFFFF",
+    "niceName": "KEBHANAHN",
+    "officialName": "Ngân hàng KEB Hana Chi nhánh Hà Nội"
+  },
+  {
+    "abbr": "viettelmoney",
+    "code": "971005",
+    "color": "#FFFFFF",
+    "niceName": "Viettel Money",
+    "officialName": "Viettel Money"
+  },
+  {
+    "abbr": "vnptmoney",
+    "code": "971011",
+    "color": "#FFFFFF",
+    "niceName": "VNPT Money",
+    "officialName": "VNPT Money"
+  },
+  {
+    "abbr": "mafc",
+    "code": "977777",
+    "color": "#FF7A00",
+    "niceName": "MAFC",
+    "officialName": "Công ty Tài chính TNHH MTV Mirae Asset"
+  },
+  {
+    "abbr": "vbsp",
+    "code": "999888",
+    "color": "#FFFFFF",
+    "niceName": "VBSP",
+    "officialName": "Ngân hàng Chính sách xã hội Việt Nam"
+  },
+  {
+    "abbr": "tpbank",
+    "code": "tpbank",
+    "color": "#fff",
+    "niceName": "TPBank",
+    "officialName": "Ngân hàng dẫn đầu Kỷ nguyên Số"
+  }
+]
