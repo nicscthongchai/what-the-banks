@@ -37,13 +37,13 @@
   },
   "bnp-paribas-hcm": {
     "code": "963666",
-    "color": "#fff",
+    "color": "#009759",
     "officialName": "Ngân hàng BNP Paribas CN HCM",
     "niceName": "BNP Paribas HCM"
   },
   "bnp-paribas-hn": {
     "code": "963668",
-    "color": "#fff",
+    "color": "#009759",
     "officialName": "Ngân hàng BNP Paribas CN HN",
     "niceName": "BNP Paribas HCM"
   },
